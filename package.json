@@ -1,0 +1,18 @@
+{
+  "name": "node_assignments",
+  "version": "1.0.0",
+  "description": "to_do server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Madhav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mocha": "^10.2.0",
+    "uuid": "^9.0.0"
+  }
+}
